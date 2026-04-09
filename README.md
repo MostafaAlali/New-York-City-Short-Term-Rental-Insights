@@ -48,7 +48,7 @@ Manhattan maintains the highest average price point across the city. Interesting
 
 ### Inventory by Room Type
 
-The inventory is dominated by Entire homes/apartments (52%), followed by Private rooms (45.7%). Shared rooms are effectively a niche market, representing only 2.3% of the total supply.
+The inventory is dominated by Entire homes/apartments (52%), followed by Private rooms (45.7%). Shared rooms are effectively a niche market, representing only 2.3% of the total supply. 
 ![image alt](https://github.com/MostafaAlali/New-York-City-Short-Term-Rental-Insights/blob/main/images/Inventory%20by%20Room%20Type.png)
 
 ---
