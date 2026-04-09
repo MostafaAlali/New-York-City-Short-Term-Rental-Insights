@@ -35,7 +35,7 @@ The NYC market is heavily concentrated in the affordable-to-mid-range segment, w
 ### Geographic Supply Concentration
 
 Manhattan and Brooklyn are the undisputed leaders in supply, each hosting approximately 20,000 listings. Together, they represent a massive lead over Queens, the Bronx, and Staten Island.
-
+<img src="[https://drive.google.com/uc?export=view&id=your_file_id" alt="Description](https://drive.google.com/file/d/1-PkZrAns8zn8XSl7R-x8yN15myam6MbP/view?usp=drive_link)">
 ---
 
 ### Pricing Hierarchy & Variability
