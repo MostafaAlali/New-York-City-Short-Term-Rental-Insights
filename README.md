@@ -15,7 +15,7 @@ The project follows a rigorous data science workflow directly within Jupyter, ha
 📊 Executive Summary & Visual Insights
 1. Pricing Trends & Distribution
 The NYC market is heavily concentrated in the affordable-to-mid-range segment, with the majority of listings priced between $50 and $150. While supply thins as prices rise, there are psychological "anchor points" at $250 and $350.
-![image alt](https://drive.google.com/drive/folders/1iVF-AxnbLTDkBzslQOCfshUobcV1FoPo)
+![image alt](https://github.com/MostafaAlali/New-York-City-Short-Term-Rental-Insights/blob/main/images/Pricing_Distribution.png)
 2. Geographic Supply Concentration
 Manhattan and Brooklyn are the undisputed leaders in supply, each hosting approximately 20,000 listings. Together, they represent a massive lead over Queens, the Bronx, and Staten Island.
 
