@@ -35,6 +35,7 @@ The NYC market is heavily concentrated in the affordable-to-mid-range segment, w
 ### Geographic Supply Concentration
 
 Manhattan and Brooklyn are the undisputed leaders in supply, each hosting approximately 20,000 listings. Together, they represent a massive lead over Queens, the Bronx, and Staten Island.
+
 ![image alt](https://github.com/MostafaAlali/New-York-City-Short-Term-Rental-Insights/blob/main/images/Geographic%20Supply%20Concentration.png)
 
 ---
@@ -42,6 +43,7 @@ Manhattan and Brooklyn are the undisputed leaders in supply, each hosting approx
 ### Pricing Hierarchy & Variability
 
 Manhattan maintains the highest average price point across the city. Interestingly, while it is the most expensive, its price distribution is relatively stable (less variance) compared to the wide fluctuations seen in Brooklyn and Queens.
+
 ![image alt](https://github.com/MostafaAlali/New-York-City-Short-Term-Rental-Insights/blob/main/images/Pricing%20Hierarchy.png)
 
 ---
@@ -49,6 +51,7 @@ Manhattan maintains the highest average price point across the city. Interesting
 ### Inventory by Room Type
 
 The inventory is dominated by Entire homes/apartments (52%), followed by Private rooms (45.7%). Shared rooms are effectively a niche market, representing only 2.3% of the total supply. 
+
 ![image alt](https://github.com/MostafaAlali/New-York-City-Short-Term-Rental-Insights/blob/main/images/Inventory%20by%20Room%20Type.png)
 
 ---
@@ -56,6 +59,7 @@ The inventory is dominated by Entire homes/apartments (52%), followed by Private
 ### Minimum Stay Behavior
 
 Most listings target short-term stays of 1–2 nights. However, a significant spike at the 30-night mark suggests a segment of the market catering to monthly rentals, likely reflecting long-term rental behavior or regulatory compliance.
+
 ![image alt](https://github.com/MostafaAlali/New-York-City-Short-Term-Rental-Insights/blob/main/images/Minimum%20Stay%20Behavior.png)
 
 ---
